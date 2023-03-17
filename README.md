@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sebaprawdzik@gmail.com**
 
-- ⚡ Fun fact **Massive F1/Soccer Fan**
+- ⚡ Fun fact: **Massive F1/Soccer Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
