@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 💬 Ask me about **Ruby, React, Rails**
+- 💬 Ask me about **Ruby, Rails, React**
 
 - 📫 How to reach me **sebaprawdzik@gmail.com**
 
