@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Prawdzik</h1>
 <h3 align="center">Enthusiastic and Driven NYC-based Software Engineer!</h3>
 
-- 🔭 I’m currently working on [Ecommerce Cafe](https://github.com/jamesprawdz/final-project-ecomm)
+- 🔭 I’m currently working on [CoffeeShop](https://github.com/jamesprawdz/final-project-ecomm)
 
 - 🌱 I’m currently learning **Flask**
 
