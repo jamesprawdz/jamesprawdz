@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm James Prawdzik</h1>
+<h1 align="center">Hi 👋, I'm James Prawdzik</h1>
 <h3 align="center">Enthusiastic and Driven NYC-based Software Engineer!</h3>
 
 - 🔭 I’m currently working on [CoffeeShop](https://github.com/jamesprawdz/coffeshop)
