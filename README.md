@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CoffeeShop](https://github.com/jamesprawdz/coffeshop)
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m also currently learning **Flask**
 
 - 💬 Ask me about **Ruby, Rails, JavaScript, React**
 
