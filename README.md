@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [coffeeshop](https://github.com/jamesprawdz/coffeshop)
 
-- 🌱 I’m also currently learning **Flask**
+- 🌱 I’m also currently learning **AWS**
 
-- 💬 Ask me about **Ruby, Rails, JavaScript, React**
+- 💬 Ask me about **Ruby, Rails, Python, Risk Management**
 
 - 📫 How to reach me **sebaprawdzik@gmail.com**
 
