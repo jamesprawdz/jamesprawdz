@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm James Prawdzik</h1>
-<h3 align="center">Solution-focused Tech Professional!</h3>
+<h1 align="center">Hi 👋, I'm James Prawdzik!</h1>
+<h3 align="center">Solution-focused Tech Professional</h3>
 
 - 🔭 I’m currently working on [coffeeshop](https://github.com/jamesprawdz/coffeshop)
 
