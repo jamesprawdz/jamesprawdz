@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Terraform**
 
-- 💬 Ask me about **Python, Kubernetes, & Ruby**
+- 💬 Ask me about **Python, AWS, & Kubernetes**
 
 - 📫 How to reach me **sebaprawdzik@gmail.com**
 
